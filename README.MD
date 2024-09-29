@@ -64,4 +64,3 @@ Este repositório contém a simulação um sistema bancário simples implementad
 ---
 
 **Desenvolvido por**: [Marcos Xavier](https://www.linkedin.com/in/marcos-s-xavier/)
-```
