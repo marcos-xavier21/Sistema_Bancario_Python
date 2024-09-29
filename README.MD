@@ -1,6 +1,4 @@
-Aqui está o `README.md` para o código fornecido:
 
-```markdown
 # 🏦 Sistema Bancário Simples em Python
 
 Este repositório contém a simulação um sistema bancário simples implementado em Python. O sistema permite a criação de usuários e contas, além de realizar operações básicas como depósitos, saques e a exibição de extratos.
